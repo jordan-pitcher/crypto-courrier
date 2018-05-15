@@ -16,4 +16,4 @@ $git clone https://github.com/jordan-pitcher/crypto-courrier.git
 
 ## Adding the bot to your Discord server:
 
-Go [here] (https://discordapp.com/api/oauth2/authorize?client_id=443882861750386698&permissions=0&scope=bot) and select your server from the drop down menu
+Go [https://discordapp.com/api/oauth2/authorize?client_id=443882861750386698&permissions=0&scope=bot] and select your server from the drop down menu
