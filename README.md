@@ -2,7 +2,7 @@
 discord crypto currency bot v1.0
 
 ## Overview
-Crypto courrier for easy access to crypto currency APIs via a Discord bot.
+Use crypto-courrier for easy access to popular crypto currency APIs via a Discord helper bot.
 
 ### Features to be implemented
 1. Buy/Sell from Coinbase
