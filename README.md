@@ -9,6 +9,7 @@ Use crypto-courrier for easy access to popular crypto currency APIs via a Discor
 2. Transfer from Coinbase to trading platforms: Bittrex, Binance, etc.
 3. Trade crypto currency on popular trading sites
 4. Track crypto currency prices in real time
+5. Use Tensorflow to predict future market trends
 
 
 ## Install via git by:
