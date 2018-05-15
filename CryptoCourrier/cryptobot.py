@@ -8,7 +8,7 @@ import os
 Client = discord.Client()
 cl = commands.Bot(command_prefix="$")
 cl.run(os.environ['BOT_TOKEN'])
-cmc = Market()
+coinmarketcap = Market()
 
 '''
 display the top crypto currency stats from coinmarketcap
